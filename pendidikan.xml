@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pendidikan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pendidikan.xsd">
+	<siswa jurusan="web service">
+		<npm>1154017</npm>
+		<nama>Adhika</nama>
+		<tanggallahir>26-11-1996</tanggallahir>
+		<email>adhikadwicahya@gmail.com</email>
+		<tingkat>2</tingkat>
+		<kelas>C</kelas>
+	<dosen>
+		<nid>123456789</nid>
+		<namadosen>Akbar pambudi</namadosen>
+	</dosen>
+	<asal>
+		<alamat>ciwaruga</alamat>
+		<kota>Bandung Barat</kota>
+	</asal>
+	</siswa>
+	
+	<siswa jurusan="matematika">
+		<npm>1154101</npm>
+		<nama>Wadi</nama>
+		<tanggallahir>12-12-1994</tanggallahir>
+		<email>wadi@gmail.com</email>
+		<tingkat>2</tingkat>
+		<kelas>C</kelas>
+	<dosen>
+		<nid>234567890</nid>
+		<nama>adam</nama>
+	</dosen>
+	<asal>
+		<alamat>sari asih</alamat>
+		<kota>Bandung</kota>
+	</asal>
+	</siswa>
+	
+	<siswa jurusan="inggris">
+		<npm>1154111</npm>
+		<nama>IDang</nama>
+		<tanggallahir>13-10-1995</tanggallahir>
+		<email>idang@gmail.com</email>
+		<tingkat>2</tingkat>
+		<kelas>D</kelas>
+	<dosen>
+		<nid>234567790</nid>
+		<nama>Tito</nama>
+	</dosen>
+	<asal>
+		<alamat>sarijadi</alamat>
+		<kota>Bandung</kota>
+	</asal>
+	</siswa>
+	
+	<siswa jurusan="Pemrograman">
+		<npm>1154121</npm>
+		<nama>Dimas</nama>
+		<tanggallahir>10-12-1996</tanggallahir>
+		<email>dimas@gmail.com</email>
+		<tingkat>3</tingkat>
+		<kelas>A</kelas>
+	<dosen>
+		<nid>234467890</nid>
+		<nama>Adhika</nama>
+	</dosen>
+	<asal>
+		<alamat>Buah Batu</alamat>
+		<kota>Bandung</kota>
+	</asal>
+	</siswa>
+	
+	<siswa jurusan="Database">
+		<npm>1154001</npm>
+		<nama>Rifa</nama>
+		<tanggallahir>06-2-1998</tanggallahir>
+		<email>rifa@gmail.com</email>
+		<tingkat>2</tingkat>
+		<kelas>B</kelas>
+	<dosen>
+		<nid>234567899</nid>
+		<nama>Jhon</nama>
+	</dosen>
+	<asal>
+		<alamat>Cimahi</alamat>
+		<kota>Bandung Barat</kota>
+	</asal>
+	</siswa>
+	
+</pendidikan> 
+	
